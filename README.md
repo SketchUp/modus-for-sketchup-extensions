@@ -51,7 +51,7 @@ Add Modus' classes to your HTML elements to apply the styling. Here are some exa
     -->
     <div class="modal-content" style="height: 100%; border-style: none;">
       <!--
-        We are skipping the modal-header element we'd have in a web app, as we 
+        We are skipping the modal-header element we'd have in a web app, as we
         have an actual window with its own title bar.
       -->
       <div class="modal-body">
@@ -100,4 +100,8 @@ TODO: Add example with more specialized control like sliders?
 
 TODO: Add a section about javascript and input validation and stuff?
 
-TODO: Move to a page in RUBY API docs.
+TODO: Move to a page in RUBY API docs? This is hard technical info, not "soft" design info.
+Or maybe let this be a section on the Modus website?
+
+TODO: Bring up with Modus team if we can get dedicated classes,
+such as a version of `modal-content` with 100% height and no border.
