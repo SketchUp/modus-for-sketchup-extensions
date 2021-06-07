@@ -1,8 +1,9 @@
 # This snippet is used to generate imagery.
 # This is saved here so it can be re-used for new images, e.g. when the style sheet changes.
 
-# Tweak path to where modus.min.css is located.
-# Swap out the HTML with that from the example in question.
+# 1. Tweak path to where modus.min.css is located.
+# 2. Swap out the HTML with that from the example in question.
+# 3. Run code, screenshot and replace image.
 
 html = <<-HTML
 <html>
