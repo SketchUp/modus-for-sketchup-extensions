@@ -61,11 +61,8 @@ Add Modus' classes to your HTML elements to apply the styling. Here are some exa
         <button type="button" class="btn btn-outline-dark">
           No
         </button>
-        <button type="button" class="btn btn-outline-dark">
-          Yes
-        </button>
         <button type="button" class="btn btn-primary">
-          Ignore
+          Yes
         </button>
       </div>
     </div>

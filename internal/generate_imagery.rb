@@ -20,13 +20,10 @@ html = <<-HTML
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-outline-dark">
-          Yes
-        </button>
-        <button type="button" class="btn btn-outline-dark">
           No
         </button>
         <button type="button" class="btn btn-primary">
-          Ignore
+          Yes
         </button>
       </div>
     </div>
