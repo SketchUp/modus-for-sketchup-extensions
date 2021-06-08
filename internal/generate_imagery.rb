@@ -31,7 +31,7 @@ html = <<-HTML
 </html>
 HTML
 
-dialog = UI::HtmlDialog.new(dialog_title: "Prompt")
+dialog = UI::HtmlDialog.new(dialog_title: "Prompt", resizable: false)
 dialog.set_html(html)
 dialog.set_size(350, 200)
 dialog.show
