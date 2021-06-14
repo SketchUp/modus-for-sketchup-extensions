@@ -1,7 +1,9 @@
 # Modus for SketchUp Extensions
 
 [Modus](https://modus.trimble.com/) is the Trimble UI Design System used by SketchUp,
-among other Trimble products.
+among other Trimble products. Modus is created by Trimble's UX experts to create a
+unified user experience within the whole portfolio.
+
 By using this system, you can with relative ease create an extension UI that feels grounded in SketchUp.
 
 ## Installing Modus
