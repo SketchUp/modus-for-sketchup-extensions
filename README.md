@@ -95,12 +95,7 @@ Add Modus' classes to your HTML elements to apply the styling. Here are some exa
 </html>
 ```
 
-TODO: Add example with more specialized control like sliders?
+### More Examples
 
-TODO: Add a section about javascript and input validation and stuff?
-
-TODO: Move to a page in RUBY API docs? This is hard technical info, not "soft" design info.
-Or maybe let this be a section on the Modus website?
-
-TODO: Bring up with Modus team if we can get dedicated classes,
-such as a version of `modal-content` with 100% height and no border.
+For more examples such a sliders, checkboxes and switches, please see the
+[Modus Bootstrap Components page](https://modus-bootstrap.trimble.com/components/).
