@@ -99,3 +99,5 @@ Add Modus' classes to your HTML elements to apply the styling. Here are some exa
 
 For more examples such a sliders, checkboxes and switches, please see the
 [Modus Bootstrap Components page](https://modus-bootstrap.trimble.com/components/).
+
+You can also check out our practical [HtmlDialog Examples](https://github.com/SketchUp/htmldialog-examples).
